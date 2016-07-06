@@ -4,3 +4,4 @@ Git has a mutable index calleed stage.
 Git tracks changes of files.
 Creating a new branch is quick and simple.
 Git there should add merge.
+Haha git i am coming.
